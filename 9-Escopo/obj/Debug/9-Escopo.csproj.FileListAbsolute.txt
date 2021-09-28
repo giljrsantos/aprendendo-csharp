@@ -4,3 +4,4 @@ F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.pd
 F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
 F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.exe
 F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.pdb
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.AssemblyReference.cache

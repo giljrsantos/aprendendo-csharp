@@ -1,0 +1,6 @@
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\10-SwitchCase-1\bin\Debug\10-SwitchCase-1.exe.config
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\10-SwitchCase-1\bin\Debug\10-SwitchCase-1.exe
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\10-SwitchCase-1\bin\Debug\10-SwitchCase-1.pdb
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\10-SwitchCase-1\obj\Debug\10-SwitchCase-1.csproj.CoreCompileInputs.cache
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\10-SwitchCase-1\obj\Debug\10-SwitchCase-1.exe
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\10-SwitchCase-1\obj\Debug\10-SwitchCase-1.pdb
