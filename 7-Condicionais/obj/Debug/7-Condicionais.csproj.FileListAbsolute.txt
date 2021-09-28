@@ -1,0 +1,7 @@
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.pdb
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.AssemblyReference.cache
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.exe
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.pdb
