@@ -1,0 +1,6 @@
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe.config
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.pdb
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.exe
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.pdb
