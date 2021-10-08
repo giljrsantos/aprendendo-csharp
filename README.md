@@ -77,10 +77,10 @@
 <img src="./assets/img/screen-15.png" width="1800" alt="Dashboard">
 </p>
 
-<!-- # ![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)CONCLUÍDO -->
+ # ![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)CONCLUÍDO
 
 
-<!-- <p align="center">
-<img src="./src/assets/imgs/certificado.png" width="1800" alt="Certificado">
-</p> -->
+<p align="center">
+<img src="./assets/img/certificado.png" width="1800" alt="Certificado">
+</p> 
 <h1 align="center">💻 Desenvolvido Por: Gilberto Júnior</h1>
