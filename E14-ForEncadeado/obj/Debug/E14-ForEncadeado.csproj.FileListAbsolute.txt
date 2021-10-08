@@ -1,0 +1,7 @@
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\E14-ForEncadeado\bin\Debug\E14-ForEncadeado.exe.config
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\E14-ForEncadeado\bin\Debug\E14-ForEncadeado.exe
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\E14-ForEncadeado\bin\Debug\E14-ForEncadeado.pdb
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\E14-ForEncadeado\obj\Debug\E14-ForEncadeado.csproj.CoreCompileInputs.cache
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\E14-ForEncadeado\obj\Debug\E14-ForEncadeado.exe
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\E14-ForEncadeado\obj\Debug\E14-ForEncadeado.pdb
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\E14-ForEncadeado\obj\Debug\E14-ForEncadeado.csproj.AssemblyReference.cache
