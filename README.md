@@ -72,6 +72,11 @@
 <img src="./assets/img/screen-14.png" width="1800" alt="Dashboard">
 </p>
 
+## NOVA FORMA DIFERENTE DE FAZER O ENCADEAMENTO
+<p align="center">
+<img src="./assets/img/screen-15.png" width="1800" alt="Dashboard">
+</p>
+
 <!-- # ![Parabéns!](https://raw.githubusercontent.com/devsuperior/bds-assets/main/img/trophy.png)CONCLUÍDO -->
 
 
