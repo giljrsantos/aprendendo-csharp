@@ -1,0 +1,7 @@
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\D1-CalculaInvestimentoLongoPrazo\bin\Debug\D1-CalculaInvestimentoLongoPrazo.exe.config
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\D1-CalculaInvestimentoLongoPrazo\bin\Debug\D1-CalculaInvestimentoLongoPrazo.exe
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\D1-CalculaInvestimentoLongoPrazo\bin\Debug\D1-CalculaInvestimentoLongoPrazo.pdb
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\D1-CalculaInvestimentoLongoPrazo\obj\Debug\D13-CalculaInvestimentoLongoPrazo.csproj.AssemblyReference.cache
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\D1-CalculaInvestimentoLongoPrazo\obj\Debug\D13-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\D1-CalculaInvestimentoLongoPrazo\obj\Debug\D1-CalculaInvestimentoLongoPrazo.exe
+F:\CursoCertificado\Alura\CSharp\AprendendoCSharp\D1-CalculaInvestimentoLongoPrazo\obj\Debug\D1-CalculaInvestimentoLongoPrazo.pdb
