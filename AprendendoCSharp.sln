@@ -21,7 +21,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Condicionais2", "8-Condic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{FE78AA0D-DF08-4E70-ADD6-768DC282FFDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-SwitchCase-1", "10-SwitchCase-1\10-SwitchCase-1.csproj", "{0392D885-125C-4981-9CAF-07D4D24F1239}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A10-SwitchCase-1", "10-SwitchCase-1\A10-SwitchCase-1.csproj", "{0392D885-125C-4981-9CAF-07D4D24F1239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B11-CalculaPoupanca", "11-CalculaPoupanca\B11-CalculaPoupanca.csproj", "{5B752D72-A6E9-4EBB-A3FF-58E6A1913ADC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{0392D885-125C-4981-9CAF-07D4D24F1239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0392D885-125C-4981-9CAF-07D4D24F1239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0392D885-125C-4981-9CAF-07D4D24F1239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B752D72-A6E9-4EBB-A3FF-58E6A1913ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B752D72-A6E9-4EBB-A3FF-58E6A1913ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B752D72-A6E9-4EBB-A3FF-58E6A1913ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B752D72-A6E9-4EBB-A3FF-58E6A1913ADC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
