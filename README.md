@@ -52,9 +52,14 @@
 <img src="./assets/img/screen-10.png" width="1800" alt="Dashboard">
 </p>
 
-## CALCULA POUPANÇA
+## LAÇO DE REPETIÇÃO WHILE
 <p align="center">
 <img src="./assets/img/screen-11.png" width="1800" alt="Dashboard">
+</p>
+
+## LAÇO DE REPETIÇÃO FOR
+<p align="center">
+<img src="./assets/img/screen-12.png" width="1800" alt="Dashboard">
 </p>
 
 

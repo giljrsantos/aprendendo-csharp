@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A10-SwitchCase-1", "10-Swit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B11-CalculaPoupanca", "11-CalculaPoupanca\B11-CalculaPoupanca.csproj", "{5B752D72-A6E9-4EBB-A3FF-58E6A1913ADC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C12-CalculaPoupanca2", "C12-CalculaPoupanca2\C12-CalculaPoupanca2.csproj", "{A8446FED-D9AC-4E40-95F3-D38CAE4FE72B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{5B752D72-A6E9-4EBB-A3FF-58E6A1913ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B752D72-A6E9-4EBB-A3FF-58E6A1913ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B752D72-A6E9-4EBB-A3FF-58E6A1913ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8446FED-D9AC-4E40-95F3-D38CAE4FE72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8446FED-D9AC-4E40-95F3-D38CAE4FE72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8446FED-D9AC-4E40-95F3-D38CAE4FE72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8446FED-D9AC-4E40-95F3-D38CAE4FE72B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
